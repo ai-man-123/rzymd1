@@ -1,6 +1,6 @@
 module.exports = {
 	name: "help",
-	alias: ["h", "cmd", "menu"],
+	alias: ["aiman", "cmd", "menu"],
 	category: "umum",
 	async run(msg, conn, q, isOwner, body, map, config, args) {
 		if (q) {
