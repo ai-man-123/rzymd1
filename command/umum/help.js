@@ -52,8 +52,8 @@ module.exports = {
 					text: str,
 					footer: config.namebot + " • " + config.ownername,
 					templateButtons: [
-						{ urlButton: { displayText: "Report Bug", url: "https://chat.rzkyfdlh.tech" } },
-						{ urlButton: { displayText: "Downloader Website", url: "https://downloader.rzkyfdlh.tech" } },
+						{ urlButton: { displayText: "My web", url: "https://s.id/aimaN" } },
+						{ urlButton: { displayText: "Tiktok", url: "https://tiktok.com/@aiman_night" } },
 					],
 				},
 				{ quoted: msg }
